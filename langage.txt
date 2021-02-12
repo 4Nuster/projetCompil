@@ -1,0 +1,40 @@
+$$include <Arithme>
+ALGORITHME isil
+	VAR
+		FONCTION myFirstFct (a:REEL.b:CHAINE) : ENTIER
+		VAR
+		DEBUT
+		RETURN 0#
+		FIN#
+
+		FONCTION mySecondFct():REEL
+		VAR
+			ayylmao:CHAINE#
+		DEBUT
+			RETURN ayylmao#
+		FIN#
+
+		x.y:ENTIER#
+		t[5].table[7]:CHAINE#
+		CONST c1.c2:REEL#
+		bruh:REEL#
+		x:CHAINE#
+
+	DEBUT
+		/*lmao*/
+		x:=69#
+		y:="something"#
+		z:=720#
+		t[7]:="heh"#
+		TANTQUE(x<y)FAIRE
+			x:=x + (12|3)#
+		FAIT#
+		c1:=5,5#
+		myFirstFct(c1.t[5])#
+		ECRIRE(table[6].3)#
+		LIRE(y)#
+		bruh:=mySecondFct() + 2,25#
+		myThirdFct()#
+		myFirstFct()#
+		myFirstFct(x.table[6])#
+	FIN
